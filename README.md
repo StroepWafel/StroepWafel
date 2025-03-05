@@ -1,9 +1,9 @@
 # StroepWafel
-<br>
+
 - Currently working on a bot for allowing viewers to queue music in YouTube livestreams
 - Learning Physics, Spec maths, Literature and Mechatronics in Highscool
 - I'm happy to talk about any of my Projects!
-- An avid blender enthusiast
+- An avid blender enthusiast 
 - Enjoy a bit of [Severance](https://en.wikipedia.org/wiki/Severance_(TV_series)) now and again
 
 
