@@ -1,7 +1,7 @@
 # StroepWafel
 
 - Currently working on a bot for allowing viewers to queue music in YouTube livestreams
-- Learning in Highscool
+- Learning in Highschool
 - I'm happy to talk about any of my Projects!
 - An avid blender enthusiast 
 
