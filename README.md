@@ -78,7 +78,7 @@
 <h3 align="left">Socials</h3>
 
 <div align="left">
-  <a href="https://www.youtube.com/@nidnhu">
+  <a href="https://www.youtube.com/@nidnhu" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
 </div>
