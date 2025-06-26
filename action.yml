@@ -1,0 +1,30 @@
+name: 'Create timeline animation'
+description: 'Create animation from your github contributions timeline'
+author: 'Zxilly'
+branding:
+  icon: 'aperture'
+  color: 'blue'
+inputs:
+  name:
+    description: 'Name displayed in the animation, by default it is the username of the token'
+  output:
+    description: "Output file name, by default it is animation.webp, if it doesn't end with .webp or .gif, type option will be used"
+    default: 'animation.webp'
+  type:
+    description: 'Output file type, can be webp, gif or both. If omitted, it will be determined by the output file name'
+    default: ''
+  shape:
+    description: 'Shape of the contribution blocks, can be circle, square or triangle'
+    default: 'square'
+  token:
+    description: >
+      Personal access token (PAT) used
+    default: ${{ github.token }}
+  login:
+    description: 'The target user to fetch the contributions, by default it is the username of the token'
+  font:
+    description: 'Font file used in the animation, by default it is Noto Serif CJK SC'
+    default: ''
+runs:
+  using: 'docker'
+  image: 'docker://ghcr.io/zxilly/animatedtimeline:1.0.1'
