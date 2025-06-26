@@ -34,7 +34,7 @@ jobs:
       - name: Generate name Animation
         uses: Zxilly/animated-timeline@v1.1.0
         with:
-          name: StroepWafel
+          login: NIDNHU
           output: 'dist/animation.gif'
           type: gif
 
