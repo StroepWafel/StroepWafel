@@ -75,8 +75,9 @@ jobs:
           output: 'animation'
           type: webp
       - name: Push Name animation to output
-        uses: actions/upload-artifact@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          name: webp
-          path: |
-            animation*
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
