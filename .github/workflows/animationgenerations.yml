@@ -31,6 +31,13 @@ jobs:
           svg_out_path: dist/github-contribution-grid-breek.svg
           svg_dark_out_path: dist/github-contribution-grid-breek-dark.svg
 
+      - name: Generate name Animation
+        uses: Zxilly/animated-timeline@v1.1.0
+        with:
+          login: NIDNHU
+          output: 'dist/animation.gif'
+          type: gif
+
       - name: Push all animations to output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
