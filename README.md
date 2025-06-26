@@ -1,4 +1,4 @@
-<h1 align="left">StroepWafel</h1>
+<img alt="StroepWafel" src="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/animation.gif" />
 
 ###
 
@@ -119,7 +119,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/pacman-contribution-graph.svg">
-  <img alt="breek contribution graph" src="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/pacman-contribution-graph.svg">
+  <img alt="breek contribution graph" src="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/github-contribution-grid-breek-dark.svg">
 </picture>
 
 ###
