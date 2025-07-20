@@ -1,4 +1,8 @@
-<img alt="StroepWafel" src="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/animation.gif" />
+<img alt="StroepWafel" src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/output/animation.gif" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=StroepWafel&color=blueviolet&style=for-the-badge&abbreviated=true&base=187" />
+</div>
+
 
 ###
 
@@ -110,25 +114,19 @@
 <h3 align="left">Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NIDNHU&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NIDNHU&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StroepWafel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=StroepWafel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+
 </div>
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/pacman-contribution-graph.svg">
-  <img alt="breek contribution graph" src="https://raw.githubusercontent.com/NIDNHU/NIDNHU/output/github-contribution-grid-breek-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StroepWafel/StroepWafel/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StroepWafel/StroepWafel/output/pacman-contribution-graph.svg">
+  <img alt="breek contribution graph" src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/output/github-contribution-grid-breek-dark.svg">
 </picture>
-
-###
-
-<h3 align="left">Profile Visits</h3>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/NIDNHU/count.svg?"  />
-</div>
 
 ###
 
@@ -139,7 +137,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://stroep.onrender.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/NIDNHU/NIDNHU/main/Icons/website-ui-web-svgrepo-com.svg" height="40" alt="website logo"  />
+    <img src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/main/Icons/website-ui-web-svgrepo-com.svg" height="40" alt="website logo"  />
   </a>
 </div>
 
