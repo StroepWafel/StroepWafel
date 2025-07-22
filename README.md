@@ -6,7 +6,16 @@
 
 ###
 
-<p align="left">Currently working on LYTE<br>Helping develop BetterSEQTA+ and DesQTA<br>Studying for hardware engineering<br>I'm happy to talk about any of my Projects!<br>An avid blender enthusiast</p>
+<p align="left">
+  <ul>
+    <li>Currently working on <a href="https://github.com/StroepWafel/LYTE" target="_blank">LYTE</a></li>
+    <li>Helping develop <a href="https://github.com/BetterSEQTA/BetterSEQTA-Plus" target="_blank">BetterSEQTA+</a> and <a href="https://github.com/BetterSEQTA/DesQTA" target="_blank">DesQTA</a></li>
+    <li>Studying for hardware engineering</li>
+    <li>I'm happy to talk about any of my Projects!</li>
+    <li>An avid blender enthusiast</li>
+    <li>Based in adelaide</li>
+    <li>You can contact me at <a href="contactstroep@gmail.com" target="_blank">contactstroep@gmail.com</a></li>
+  </ul>
 
 ###
 
