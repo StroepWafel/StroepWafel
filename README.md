@@ -12,6 +12,7 @@
     <li>Helping develop <a href="https://github.com/BetterSEQTA/BetterSEQTA-Plus" target="_blank">BetterSEQTA+</a> and <a href="https://github.com/BetterSEQTA/DesQTA" target="_blank">DesQTA</a></li>
     <li>Studying for hardware engineering</li>
     <li>I'm happy to talk about any of my Projects!</li>
+    <li>Learning C#!</li>
     <li>An avid blender enthusiast</li>
     <li>Based in adelaide</li>
     <li>You can contact me at <a href="mailto:contact@stroepwafel.au" target="_blank">contact@stroepwafel.au</a></li>
