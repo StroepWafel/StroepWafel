@@ -1,6 +1,7 @@
-<img alt="StroepWafel" src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/output/animation.gif" />
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=StroepWafel&color=blueviolet&style=for-the-badge&abbreviated=true&base=187" />
+  <img alt="StroepWafel" src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/output/animation.gif" />
+
+  <img src="https://githubcard.com/stroepwafel.svg?d=O1LAcPCU" height="1100" alt="languages graph"  />
 </div>
 
 
@@ -19,6 +20,7 @@
   </ul>
 
 ###
+  <img src="https://komarev.com/ghpvc/?username=StroepWafel&color=blueviolet&style=for-the-badge&abbreviated=true&base=187" />
 
 <h3 align="left">Things I have experience in:</h3>
 
@@ -113,16 +115,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 -->
-###
-
-<h3 align="left">Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=StroepWafel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=StroepWafel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-</div>
 
 ###
 
