@@ -133,6 +133,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="https://stroep.onrender.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/main/Icons/website-ui-web-svgrepo-com.svg" height="40" alt="website logo"  />
+    <img src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/main/Icons/birb.jpg" height="40" alt="website logo"  />
   </a>
 </div>
