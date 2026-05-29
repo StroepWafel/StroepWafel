@@ -136,6 +136,3 @@
     <img src="https://raw.githubusercontent.com/StroepWafel/StroepWafel/main/Icons/website-ui-web-svgrepo-com.svg" height="40" alt="website logo"  />
   </a>
 </div>
-
-###
-github.com/StroepWafel/LYTE
