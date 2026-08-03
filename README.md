@@ -9,7 +9,7 @@
 
 <p align="left">
   <ul>
-    <li>Currently working on <a href="https://github.com/StroepWafel/LYTE" target="_blank">LYTE</a></li>
+    <li>Currently working on <a href="https://spotiqueue.com" target="_blank">SpotiQueue</a></li>
     <li>Helping develop <a href="https://github.com/BetterSEQTA/BetterSEQTA-Plus" target="_blank">BetterSEQTA+</a> and <a href="https://github.com/BetterSEQTA/DesQTA" target="_blank">DesQTA</a></li>
     <li>Studying for hardware engineering</li>
     <li>I'm happy to talk about any of my Projects!</li>
