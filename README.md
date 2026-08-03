@@ -15,7 +15,7 @@
     <li>I'm happy to talk about any of my Projects!</li>
     <li>Learning C#!</li>
     <li>An avid blender enthusiast</li>
-    <li>Based in adelaide</li>
+    <li>Based in Adelaide</li>
     <li>You can contact me at <a href="mailto:contact@stroepwafel.au" target="_blank">contact@stroepwafel.au</a></li>
   </ul>
 
